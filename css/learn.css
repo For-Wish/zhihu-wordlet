@@ -1,0 +1,130 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.background img{
+	width: 1400px;
+	height: 850px;
+}
+.Heads{
+	width: 1400px;
+	height: 850px;
+	border: 1px solid orange;
+	margin: 0px auto;
+	position: relative;
+}
+.Heads ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+.Heads ul{
+	width: 1400px;
+	top: 0px;
+	position: fixed;
+	z-index: 9999;
+	background: rgba(44,66,96,0.3);
+}
+.Heads a{color: white;text-decoration: none;font-family: "Ink Free","楷体";font-size: 20px;}
+.Heads li span:nth-child(1){
+	font-size: 30px;
+	padding-left: 50px;
+}
+.Heads li:nth-child(2){
+	padding-left: 30px;
+}
+.Heads li:nth-child(3){
+	padding-left: 20px;
+}
+.Heads li:nth-child(4){
+	padding-left: 20px;
+}
+.Heads li:nth-child(5){
+	padding-left: 20px;
+}
+.Headersimg{
+	float: right;
+	margin-right: 40px;
+	margin-top: 10px;
+}
+.Headersimg img{
+	width: 20px;
+	height: 20px;
+}
+.qita{
+	position: absolute;
+	top: 28%;
+	left: 38%;
+}
+.qita h1{
+	font-family: "楷体";
+	font-size: 50px;
+	
+}
+.qita h1>span{
+	font-family: Ink Free;
+	padding-right: 15px;
+}
+.xuexi{
+	position: fixed;
+	right: 35px;
+	bottom: 40px;
+}
+/* 头部结束 */
+
+/* 主体开始 */
+.bigbox{
+	width: 1400px;
+	height: 5000px;
+	/* border: 1px solid orange; */
+	margin: 0px auto;
+}
+.smallbox{
+	width: 1130px;
+	height: 5000px;
+	border: 1px solid rgba(44,66,96,0.3);
+	margin: 0px auto;
+	box-shadow: 2px 1px 5px;
+}
+.smallbox>h2{
+	font-size: 35px;
+	font-family: "楷体";
+	text-indent: 1em;
+	padding-top: 20px;
+}
+.h2hr{
+	width: 1132px;
+	height: 3px;
+	background: rgb(108,107,113);
+	margin-top: 25px;
+}
+.phr{
+	position: absolute;
+	width: 3px;
+	height: 1120px;
+	background: rgb(108,107,113);
+	margin-left: 80px;
+	margin-top: 25px;
+	left: 250px;
+}
+.yikao{
+	width: 1050px;
+	height: 4890px;
+	/* border: 1px solid orange; */
+	margin: 0px auto;
+	margin-top: 20px;
+	font-size: 22px;
+	font-family: "仿宋";
+	text-indent: 2em;
+}
+.yikao p{
+	padding-bottom: 1.5em;
+	line-height: 40px;
+}
+.qianyan{
+	font-size: 40px;
+	padding-top: 10px;
+	font-weight: bolder;
+}
+.yikao strong{
+	font-size: 25px;
+}

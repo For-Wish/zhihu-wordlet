@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: #333;
+}
+a:hover{
+	color: coral;
+}
+
+.zhaohui{
+	width: 400px;
+	margin:0 auto;
+	margin-top: 70px;
+}
+.zhaohui h1{
+	font-size: 24px;
+	font-weight: 600;
+}
+.zhaohui p{
+	color: #8590a6;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.uname,.pwd,.btn{
+	height: 49px;
+	margin-top: 34px;
+	border-bottom: 1px solid #ebebeb;
+	padding-left: 20px;
+}
+form .input{
+	border: none;
+}
+form .input:focus{
+	outline: none;
+}
+.btn{
+	margin-top: 20px;
+}
+.btn input{
+	height: 36px;
+	color: #fff;
+	background-color: #06f;
+	width: 352px;
+	border: none;
+	border-radius: 5px;
+	
+}
+.denglu{
+	margin-top: 20px;
+	padding-left: 20px;
+	font-size: 12px;
+	height: 20px;
+}
+.denglu .reg{
+	float: left;
+}
+.denglu .forget{
+	float: right;
+	margin-right: 20px;
+}
+.reg{
+	color: #06f;
+}
+.reg,.forget{
+	font-size: 14px;
+}

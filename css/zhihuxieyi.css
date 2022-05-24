@@ -1,0 +1,264 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.daohangs{
+	width: 1463px;
+	height: 47px;
+	background-color: #0663c1;
+	z-index: 9998;
+	margin: 0px auto;
+}
+header{
+	width: 100%;
+	background-color:#0663c1 ;
+	position: fixed;
+	z-index: 9997;
+	top: 0px;
+	margin-left: -30px;
+}
+
+.logo1s{
+	display: inline-block;
+	margin-left: 233px;
+}
+.logo1s,.sousuos{
+	vertical-align: middle;
+	margin-top: 7px;
+}
+.sousuos{
+	width: 367px;
+	height: 33px;
+	border-radius:4px ;
+	color: #49525c;
+	border: 1px solid #045bb2;
+	padding-left: 10px;
+	margin-left: 16px;
+	outline: 0;	
+}
+.tubiaos{
+	width: 30px;
+	height: 32px;
+	background-color: #0d78e7;
+	position: absolute;
+	z-index: 2;
+	margin-top: -33px;
+	margin-left: 670px;
+	box-shadow: 0px 0px 1px #024b93;
+	border-radius: 3px;
+}
+.tubiao1s{
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.daohangwenzis{
+	margin-left: 700px;
+	margin-top: -25px;
+	line-height: 12px;
+}
+.daohangwenzis li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 30px;
+}
+.daohangwenzis a{
+	text-decoration: none;
+	color: #d8e4ee;
+	font-size: 14px;
+}
+.daohangs a:hover{
+	color: #ffffff;
+}
+.tiwens{
+	width: 66px;
+	height: 32px;
+	background: linear-gradient(to bottom,#0e7bef,#0d73da);
+	box-shadow: 0 1px 2px rgba(0,0,0,.05), inset 0 1px 1px rgba(255,255,255,.15);
+	font-size: 14px;
+	margin-left: 1000px;
+	margin-top: -22px;
+	text-shadow: 0 1px 1px rgba(0,0,0,.12);
+	outline: 0;
+	border-radius: 5px;
+	line-height: 32px;
+	text-align: center;
+}
+.rengwux{
+	margin-left: 550px;
+	margin-top: -18px;
+	width: 30px;
+	height: 30px;
+	border-radius: 5px;
+}
+.tiwens a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.tiwens a:hover{
+	color: red;
+}
+.rengwus{
+	margin-left: 550px;
+	margin-top: -22px;
+}
+.zhucezhihus a{
+	text-decoration: none;
+	color: #eeeeee;
+	font-size: 14px;
+}
+.zhucezhihus{
+	margin-left: 1130px;
+	margin-top: -25px;
+}
+.denglus{
+	margin-left: 20px;
+}
+.shudians{
+	margin-left: 215px;
+	margin-top: 85px;
+}
+.dahe{
+	width: 1200px;
+	height: 4500px;
+	background-color: #FFFFFF;
+	margin: 0px auto;
+	
+}
+.zhutis{
+	width: 900px;
+	height: 4400px;
+	background-color: #FFFFFF;
+	margin: 0px auto;
+	
+}
+section{
+	width: 100%;
+	background-color: #FFFFFF;
+	margin-top: 80px;
+}
+.zhuz{
+	margin: 0px auto;
+}
+.guding{
+	position: fixed;
+	margin-left:90px ;
+	margin-top: -8px;
+}
+.guding li{
+	list-style: none;
+	line-height: 40px;
+	font-size: 14px;
+}
+.guding li a {
+	text-decoration: none;
+	color: #333333;
+}
+.guding li a:hover{
+	text-decoration: underline;
+}
+.zhutis{
+	margin-left: 180px;
+}
+p {
+    display: block;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+p{
+	font-size: 14px;
+}
+h4{
+	display: block;
+	 margin-block-start: 0.83em;
+	margin-block-end: 0.83em;
+	 margin-inline-start: 0px;
+	margin-inline-end: 0px;
+}
+
+
+.guizhe li{
+	
+	line-height: 2;
+	margin-left: 15px;
+	font-size: 14px;
+	padding-top: 15px;
+}
+.guizhe ul li::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+}
+a{
+	text-decoration: none;
+	color: #259;
+}
+.chanquan li{
+	padding-top: 15px;
+	line-height: 2;
+	margin-left: 35px;
+	font-size: 14px;
+}
+.zhihubi li{
+	padding-top: 15px;
+	line-height: 2;
+	margin-left: 35px;
+	font-size: 14px;
+}
+.qingquan li{
+	padding-top: 15px;
+	line-height: 2;
+	margin-left: 35px;
+	font-size: 14px;
+}
+.kuai{
+	display: block;
+}
+
+.kuai1{
+	display: block;
+	padding-top: 15px;
+}
+.i1{
+  list-style: none;
+}
+.mianze li{
+	padding-top: 15px;
+	line-height: 2;
+	margin-left: 35px;
+	font-size: 14px;
+}
+.xiugai li{
+	padding-top: 15px;
+	line-height: 2;
+	margin-left: 35px;
+	font-size: 14px;
+}
+.xiano{
+	width: 1000px;
+	height: 0px ;
+	border: 1px solid #cccccc;
+	margin: 0px auto;
+	margin-top: -60px;
+}
+.banquan{
+	color: #cccccc;
+	margin-left: 210px;
+}
+.tiaozhuan li{
+	display: inline-block;
+}
+.tiaozhuan li a{
+	color: #CCCCCC;
+	font-size: 14px;
+}
+.tiaozhuan{
+	margin-top: -50px;
+	margin-left: 800px;
+}
+.kongs{
+	width: 1000px;
+	height: 100px;
+}

@@ -1,0 +1,173 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: #333;
+}
+a:hover{
+	color: coral;
+}
+#login{
+	width: 100%;
+	background-image:url(../img/sign_bg.db29b0fb.png);
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size: cover;
+	background-color: #b8e5f8;
+	overflow: auto;
+}
+.con{
+	width: 400px;
+	margin: 0 auto;
+	padding-top: 40px;
+}
+.con .logo{
+	text-align: center;
+}
+.con .logo img{
+	width: 128px;
+	height: 81px;
+	}
+
+.con form{
+	background-color: #fff;
+	background-heght:100vh;
+	border-radius: 2px;
+}
+.biaoti{
+	height: 60px;
+	line-height: 60px;
+	font-size: 16px;
+	padding-left: 20px;
+	
+}
+.biaoti div{
+	display: inline-block;
+}
+.biaoti div a{
+	color: #444;
+}
+.curr{
+	border-bottom: 3px solid blue;
+	margin-left: 20px;
+	font-weight: 600;
+}
+.curr a{
+	color: #121212;
+}
+.uname,.pwd,.btn{
+	height: 49px;
+	margin-top: 34px;
+	border-bottom: 1px solid #ebebeb;
+	padding-left: 20px;
+}
+form .input{
+	border: none;
+}
+form .input:focus{
+	outline: none;
+}
+.btn{
+	width: 352px;
+	height: 36px;
+	border: 1px solid none;
+	line-height: 36px;
+	text-align: center;
+	color: white;
+	margin-left: 15px;
+	background-color: #06f;
+	
+}
+.btn a{
+	color: white;
+	margin-right: 15px;
+}
+/* .btn{
+	margin-top: 20px;
+	width: 100%;
+}
+.btn input{
+	height: 36px;
+	color: #fff;
+	background-color: #06f;
+	width: 352px;
+	border: none;
+	border-radius: 5px;
+} */
+.xieyi{
+	padding-left: 20px;
+	font-size: 13px;
+	margin-top: 20px;
+	color: gray;
+	padding-right: 10px;
+}
+.dlfangshi{
+	margin-top: 20px;
+	padding-left: 20px;
+}
+.dlfangshi p,.dlfangshi img{
+	display: inline-block;
+	vertical-align: middle;
+	
+}
+.dlfangshi img{
+	width: 60px;
+}
+.dlfangshi p{
+	color: gray;
+	margin-right: 80px;
+}
+.qita{
+	background-color: #F6F6F6;
+	width: 400px;
+	height: 60px;
+}
+.qita div{
+	display: inline-block;
+	height: 60px;
+	line-height: 60px;
+	padding-right: 10px;
+	
+}
+.qita div img,.qita div sapn{
+	vertical-align: middle;
+}
+.qita div:first-of-type{
+	float: left;
+}
+.qita div:last-of-type{
+	float: right;
+}
+.qita span{
+}
+
+.yzm{
+	margin-left: 124px;
+	font-size: 14px;
+	color: #8590a6;
+}
+.duanxin{
+	text-align: right;
+	font-size: 14px;
+	margin-right: 20px;
+	margin-top: 20px;
+	
+}
+.duanxin a{
+	color: #8590a6;
+}
+footer{
+	text-align: center;
+	padding-top: 20px;
+	width: 1100px;
+	margin: 0 auto;
+	font-size: 12px;
+	color: #F6F6F6;
+	line-height: 20px;
+}
+footer a{
+	color: #F6F6F6;
+	margin: 0 10px 0 10px;
+}
